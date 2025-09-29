@@ -7,10 +7,12 @@
 在项目根目录创建 `.env` 文件：
 
 ```
-PRIVATE_KEY=fdb0b3c5e223fd6a138bb0fc5e9c5182d4fc28274e31cdfa5bc6298a41190116
-ETHERSCAN_API_KEY=QB3VMXRZRJ3WVAJ5ASH9823B9VHFBCVV3Y
+PRIVATE_KEY=your_private_key_here # 切勿提交到版本库
+ETHERSCAN_API_KEY=your_etherscan_api_key_here
 SEPOLIA_RPC_URL=https://ethereum-sepolia-rpc.publicnode.com
 ```
+
+> 注意：请不要将任何私钥或机密信息提交到仓库。
 
 ## 安装依赖
 
